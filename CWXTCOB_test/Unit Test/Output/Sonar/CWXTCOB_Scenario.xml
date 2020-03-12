@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.1.2.v20200113-1234_111?>
+<!--Topaz for Total Test 20.1.2.v20200113-1234_111 2020/03/12 10:33:12-->
+<testExecutions version="1">
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario"/>
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Stubs\CWXTCOB_DATETIME_01.stub">
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_DATETIME_01'.00001: 'ACCEPT DATE' assertion.ACCEPT DATE"/>
+  </file>
+</testExecutions>

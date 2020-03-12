@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 20.1.2.v20200113-1234_111?>
+<!--Topaz for Total Test 20.1.2.v20200113-1234_111 2020/03/12 10:33:12-->
+<testExecutions version="1">
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Scenarios\CWXTCOB_Scenario_00003.testscenario">
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.00001: Check for RETURN_CODE">
+      <failure message="Check for RETURN_CODE failed">Check for RETURN_CODE failed
+
+Actual Value:    7777
+
+Expected Value:  = 0</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.00002: Check for PARM_LTH"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.00003: Check for PARM_DATA"/>
+  </file>
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Stubs\CWXTCOB_CWXTDATE_03.stub">
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_03.00001: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_03.00001: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_03.00001: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_03.00001: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY">
+      <failure message="Check for WA_EMP_HIRE_YY failed">Check for WA_EMP_HIRE_YY failed
+
+Actual Value:    X'0000'
+
+Expected Value:  = 81</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_03.00001: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM">
+      <failure message="Check for WA_EMP_HIRE_MM failed">Check for WA_EMP_HIRE_MM failed
+
+Actual Value:    X'0000'
+
+Expected Value:  = 10</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_03.00001: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD">
+      <failure message="Check for WA_EMP_HIRE_DD failed">Check for WA_EMP_HIRE_DD failed
+
+Actual Value:    X'0000'
+
+Expected Value:  = 15</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00002: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00003: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00004: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00005: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00006: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00007: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00008: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00009: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00010: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00011: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00012: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00013: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00014: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00015: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00016: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00017: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00018: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00019: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00020: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_03'.00021: 'CWXTDATE' assertion.CWXTDATE"/>
+  </file>
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Stubs\CWXTCOB_IGZXLOCT_03.stub">
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_IGZXLOCT_03'.00022: 'IGZXLOCT' assertion.IGZXLOCT"/>
+  </file>
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_03.stub">
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00001: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00002: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00003: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00004: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00005: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00006: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00007: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00008: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00009: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00010: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00011: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00012: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00013: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00014: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00015: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00016: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00017: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00018: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00019: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00020: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00021: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00022: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_03.00023: CWXTCOB_RPTFILE_FILE_03.RPTFILE assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+  </file>
+  <file path="D:\Git_repository_TTT_CWXTCOB\CWXTCOB_test\Unit Test\Stubs\CWXTCOB_DATETIME_03.stub">
+    <testCase duration="0" name="CWXTCOB_test.CWXTCOB_Scenario_00003.00001: CWXTCOBCase1.Stub: 'CWXTCOB_DATETIME_03'.00046: 'ACCEPT DATE' assertion.ACCEPT DATE"/>
+  </file>
+</testExecutions>
